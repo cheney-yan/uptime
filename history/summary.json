@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 54
+    "time": 58
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 117
+    "time": 126
   },
   {
     "name": "Singapore",
@@ -21,7 +21,7 @@
     "slug": "singapore",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3596
+    "time": 3545
   },
   {
     "name": "Broken Site",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.50%",
+    "uptime": "98.63%",
     "time": 0
   }
 ]
