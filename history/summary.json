@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 89,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87
+    "time": 84,
+    "timeDay": 62,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84
   },
   {
     "name": "Wikipedia",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 48,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121
+    "time": 110,
+    "timeDay": 28,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110
   },
   {
     "name": "Singapore",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4460,
-    "timeDay": 6457,
-    "timeWeek": 4460,
-    "timeMonth": 4460,
-    "timeYear": 4460
+    "time": 4407,
+    "timeDay": 3877,
+    "timeWeek": 4407,
+    "timeMonth": 4407,
+    "timeYear": 4407
   },
   {
     "name": "Broken Site",
@@ -68,11 +68,11 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "95.27%",
+    "uptime": "94.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.54%",
-    "uptimeMonth": "81.71%",
-    "uptimeYear": "95.27%",
+    "uptimeWeek": "6.20%",
+    "uptimeMonth": "78.41%",
+    "uptimeYear": "94.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
