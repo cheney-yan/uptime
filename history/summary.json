@@ -2,6 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 62,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84
+    "time": 85,
+    "timeDay": 99,
+    "timeWeek": 91,
+    "timeMonth": 85,
+    "timeYear": 85,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
+    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -26,14 +29,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 28,
-    "timeWeek": 110,
+    "timeDay": 106,
+    "timeWeek": 90,
     "timeMonth": 110,
-    "timeYear": 110
+    "timeYear": 110,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Singapore",
     "url": "https://singapore.cloudhowto.tech",
+    "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4407,
-    "timeDay": 3877,
-    "timeWeek": 4407,
-    "timeMonth": 4407,
-    "timeYear": 4407
+    "time": 4351,
+    "timeDay": 3735,
+    "timeWeek": 4602,
+    "timeMonth": 4351,
+    "timeYear": 4351,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -61,22 +68,35 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "94.46%",
+    "uptime": "93.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.20%",
-    "uptimeMonth": "78.41%",
-    "uptimeYear": "94.46%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "75.13%",
+    "uptimeYear": "93.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-08": 42,
+      "2020-12-07": 1440,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 774
+    }
   }
 ]
