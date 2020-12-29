@@ -40,9 +40,9 @@
     "url": "https://singapore.cloudhowto.tech",
     "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 4661,
     "timeMonth": 4340,
     "timeYear": 4340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-29": 0
+    }
   },
   {
     "name": "Broken Site",
@@ -77,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "79.67%",
+    "uptime": "79.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.09%",
-    "uptimeYear": "79.67%",
+    "uptimeMonth": "4.15%",
+    "uptimeYear": "79.34%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-29": 43,
+      "2020-12-29": 893,
       "2020-12-28": 1440,
       "2020-12-27": 1440,
       "2020-12-26": 1440,
