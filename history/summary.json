@@ -11,10 +11,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 95,
-    "timeDay": 76,
-    "timeWeek": 66,
-    "timeMonth": 97,
-    "timeYear": 95,
+    "timeDay": 107,
+    "timeWeek": 70,
+    "timeMonth": 98,
+    "timeYear": 96,
     "dailyMinutesDown": {
       "2021-11-29": 42
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 168,
-    "timeWeek": 263,
-    "timeMonth": 220,
-    "timeYear": 201,
+    "time": 198,
+    "timeDay": 268,
+    "timeWeek": 278,
+    "timeMonth": 219,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
     "status": "down",
-    "uptime": "67.81%",
+    "uptime": "67.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "65.38%",
+    "uptimeYear": "65.11%",
     "time": 5188,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5283,
+    "timeYear": 5289,
     "dailyMinutesDown": {
-      "2021-12-28": 48,
+      "2021-12-29": 48,
+      "2021-12-28": 1440,
       "2021-12-27": 1440,
       "2021-12-26": 1440,
       "2021-12-25": 1440,
@@ -192,8 +193,7 @@
       "2021-02-11": 88,
       "2021-02-05": 541,
       "2021-01-21": 322,
-      "2021-01-20": 209,
-      "2020-12-29": 40
+      "2021-01-20": 209
     }
   },
   {
@@ -220,7 +220,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.19%",
+    "uptime": "22.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -231,7 +231,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-28": 48,
+      "2021-12-29": 48,
+      "2021-12-28": 1440,
       "2021-12-27": 1440,
       "2021-12-26": 1440,
       "2021-12-25": 1440,
@@ -594,8 +595,7 @@
       "2021-01-02": 1440,
       "2021-01-01": 1440,
       "2020-12-31": 1440,
-      "2020-12-30": 1440,
-      "2020-12-29": 1440
+      "2020-12-30": 1440
     }
   }
 ]
