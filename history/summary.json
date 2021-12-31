@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 95,
-    "timeDay": 66,
-    "timeWeek": 71,
-    "timeMonth": 79,
+    "timeDay": 61,
+    "timeWeek": 69,
+    "timeMonth": 78,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2021-11-29": 42
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 225,
-    "timeWeek": 279,
-    "timeMonth": 221,
-    "timeYear": 201,
+    "timeDay": 508,
+    "timeWeek": 319,
+    "timeMonth": 231,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
     "status": "down",
-    "uptime": "67.47%",
+    "uptime": "67.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "64.84%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "64.57%",
     "time": 5188,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5294,
+    "timeYear": 5298,
     "dailyMinutesDown": {
-      "2021-12-30": 48,
+      "2021-12-31": 50,
+      "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -221,10 +222,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.10%",
+    "uptime": "22.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -232,7 +233,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-30": 48,
+      "2021-12-31": 50,
+      "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -595,8 +597,7 @@
       "2021-01-04": 1440,
       "2021-01-03": 1440,
       "2021-01-02": 1440,
-      "2021-01-01": 1440,
-      "2020-12-31": 1440
+      "2021-01-01": 1440
     }
   }
 ]
