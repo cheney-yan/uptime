@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 95,
-    "timeDay": 61,
-    "timeWeek": 69,
+    "timeDay": 72,
+    "timeWeek": 71,
     "timeMonth": 78,
     "timeYear": 95,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 508,
-    "timeWeek": 319,
+    "timeDay": 170,
+    "timeWeek": 317,
     "timeMonth": 231,
-    "timeYear": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
     "status": "down",
-    "uptime": "67.30%",
+    "uptime": "67.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.57%",
+    "uptimeYear": "64.29%",
     "time": 5188,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5298,
+    "timeYear": 5302,
     "dailyMinutesDown": {
-      "2021-12-31": 50,
+      "2022-01-01": 50,
+      "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -222,7 +223,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "22.06%",
+    "uptime": "22.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -233,7 +234,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-31": 50,
+      "2022-01-01": 50,
+      "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -596,8 +598,7 @@
       "2021-01-05": 1440,
       "2021-01-04": 1440,
       "2021-01-03": 1440,
-      "2021-01-02": 1440,
-      "2021-01-01": 1440
+      "2021-01-02": 1440
     }
   }
 ]
