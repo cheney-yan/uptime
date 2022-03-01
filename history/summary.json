@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 94,
-    "timeDay": 167,
-    "timeWeek": 86,
-    "timeMonth": 100,
-    "timeYear": 94,
+    "time": 95,
+    "timeDay": 370,
+    "timeWeek": 127,
+    "timeMonth": 113,
+    "timeYear": 95,
     "dailyMinutesDown": {
       "2021-11-29": 42
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 147,
-    "timeWeek": 175,
-    "timeMonth": 221,
+    "timeDay": 182,
+    "timeWeek": 177,
+    "timeMonth": 219,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
     "status": "down",
-    "uptime": "58.56%",
+    "uptime": "58.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "48.62%",
-    "time": 5205,
+    "uptimeMonth": "7.96%",
+    "uptimeYear": "48.35%",
+    "time": 5211,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5070,
+    "timeYear": 5069,
     "dailyMinutesDown": {
-      "2022-02-28": 55,
+      "2022-03-01": 61,
+      "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
@@ -277,10 +278,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "19.76%",
+    "uptime": "19.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -288,7 +289,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-28": 55,
+      "2022-03-01": 62,
+      "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
@@ -651,8 +653,7 @@
       "2021-03-05": 1440,
       "2021-03-04": 1440,
       "2021-03-03": 1440,
-      "2021-03-02": 1440,
-      "2021-03-01": 1440
+      "2021-03-02": 1440
     }
   }
 ]
