@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 93,
-    "timeDay": 80,
-    "timeWeek": 86,
-    "timeMonth": 80,
+    "timeDay": 138,
+    "timeWeek": 96,
+    "timeMonth": 82,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2021-11-29": 42
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 260,
-    "timeWeek": 228,
-    "timeMonth": 200,
-    "timeYear": 223,
+    "timeDay": 257,
+    "timeWeek": 209,
+    "timeMonth": 201,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
     "status": "down",
-    "uptime": "51.83%",
+    "uptime": "51.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.45%",
-    "time": 5364,
+    "uptimeYear": "32.18%",
+    "time": 5365,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4311,
+    "timeYear": 4297,
     "dailyMinutesDown": {
-      "2022-04-28": 109,
+      "2022-04-29": 76,
+      "2022-04-28": 1440,
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
@@ -308,8 +309,7 @@
       "2021-06-19": 41,
       "2021-05-21": 24,
       "2021-05-03": 18,
-      "2021-05-02": 66,
-      "2021-04-29": 19
+      "2021-05-02": 66
     }
   },
   {
@@ -336,7 +336,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "17.90%",
+    "uptime": "17.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -347,7 +347,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-28": 109,
+      "2022-04-29": 76,
+      "2022-04-28": 1440,
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
@@ -710,8 +711,7 @@
       "2021-05-03": 1440,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
-      "2021-04-30": 1440,
-      "2021-04-29": 1440
+      "2021-04-30": 1440
     }
   }
 ]
