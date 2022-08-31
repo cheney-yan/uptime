@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 94,
-    "timeDay": 89,
-    "timeWeek": 83,
+    "timeDay": 79,
+    "timeWeek": 80,
     "timeMonth": 110,
     "timeYear": 96,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 69,
-    "timeWeek": 180,
-    "timeMonth": 185,
+    "timeDay": 104,
+    "timeWeek": 190,
+    "timeMonth": 184,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
     "status": "down",
-    "uptime": "41.75%",
+    "uptime": "41.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4099,
+    "time": 4041,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-30": 113,
+      "2022-08-31": 120,
+      "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
@@ -417,8 +418,7 @@
       "2021-09-04": 1440,
       "2021-09-03": 1440,
       "2021-09-02": 1440,
-      "2021-09-01": 1440,
-      "2021-08-31": 1440
+      "2021-09-01": 1440
     }
   },
   {
@@ -445,7 +445,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "14.94%",
+    "uptime": "14.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-30": 113,
+      "2022-08-31": 120,
+      "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
@@ -819,8 +820,7 @@
       "2021-09-04": 1440,
       "2021-09-03": 1440,
       "2021-09-02": 1440,
-      "2021-09-01": 1440,
-      "2021-08-31": 1440
+      "2021-09-01": 1440
     }
   }
 ]
