@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 95,
-    "timeDay": 95,
+    "timeDay": 77,
     "timeWeek": 130,
-    "timeMonth": 98,
-    "timeYear": 94,
+    "timeMonth": 97,
+    "timeYear": 93,
     "dailyMinutesDown": {
       "2021-11-29": 42
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 196,
-    "timeWeek": 337,
-    "timeMonth": 212,
+    "timeDay": 323,
+    "timeWeek": 343,
+    "timeMonth": 221,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
     "slug": "singapore",
     "status": "down",
-    "uptime": "40.24%",
+    "uptime": "40.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3649,
+    "time": 3623,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-23": 112,
+      "2022-09-24": 108,
+      "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
@@ -417,8 +418,7 @@
       "2021-09-28": 1440,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
-      "2021-09-25": 1440,
-      "2021-09-24": 1440
+      "2021-09-25": 1440
     }
   },
   {
@@ -445,7 +445,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "14.47%",
+    "uptime": "14.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-23": 112,
+      "2022-09-24": 108,
+      "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
@@ -819,8 +820,7 @@
       "2021-09-28": 1440,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
-      "2021-09-25": 1440,
-      "2021-09-24": 1440
+      "2021-09-25": 1440
     }
   }
 ]
