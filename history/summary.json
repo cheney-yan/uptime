@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 95,
-    "timeDay": 83,
-    "timeWeek": 85,
-    "timeMonth": 98,
-    "timeYear": 92,
+    "timeDay": 368,
+    "timeWeek": 126,
+    "timeMonth": 107,
+    "timeYear": 93,
     "dailyMinutesDown": {
       "2021-11-29": 42
     }
@@ -22,7 +22,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -31,30 +31,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 92,
-    "timeWeek": 159,
-    "timeMonth": 215,
-    "timeYear": 224,
+    "timeDay": 129,
+    "timeWeek": 167,
+    "timeMonth": 216,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
     "name": "Singapore",
     "url": "https://singapore.cloudhowto.tech",
-    "icon": "https://favicons.githubusercontent.com/singapore.cloudhowto.tech",
+    "icon": "https://icons.duckduckgo.com/ip3/singapore.cloudhowto.tech.ico",
     "slug": "singapore",
     "status": "down",
-    "uptime": "39.70%",
+    "uptime": "39.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3282,
+    "time": 3251,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 112,
+      "2022-10-03": 87,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -417,14 +418,13 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.com.ico",
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -442,10 +442,10 @@
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "14.31%",
+    "uptime": "14.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 112,
+      "2022-10-03": 88,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -819,8 +820,7 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   }
 ]
