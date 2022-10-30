@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 97,
-    "timeDay": 90,
-    "timeWeek": 107,
+    "timeDay": 73,
+    "timeWeek": 108,
     "timeMonth": 110,
     "timeYear": 94,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 270,
-    "timeWeek": 248,
-    "timeMonth": 205,
-    "timeYear": 216,
+    "time": 228,
+    "timeDay": 893,
+    "timeWeek": 319,
+    "timeMonth": 230,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/singapore.cloudhowto.tech.ico",
     "slug": "singapore",
     "status": "down",
-    "uptime": "38.16%",
+    "uptime": "38.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2367,
+    "time": 2372,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-29": 81,
+      "2022-10-30": 106,
+      "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
@@ -417,8 +418,7 @@
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
-      "2021-10-31": 1440,
-      "2021-10-30": 1440
+      "2021-10-31": 1440
     }
   },
   {
@@ -445,7 +445,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "13.83%",
+    "uptime": "13.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-29": 81,
+      "2022-10-30": 106,
+      "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
@@ -819,8 +820,7 @@
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
-      "2021-10-31": 1440,
-      "2021-10-30": 1440
+      "2021-10-31": 1440
     }
   }
 ]
