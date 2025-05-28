@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 77,
+    "timeDay": 73,
     "timeWeek": 107,
     "timeMonth": 107,
     "timeYear": 108,
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 97,
-    "timeWeek": 190,
-    "timeMonth": 149,
-    "timeYear": 215,
+    "timeDay": 41,
+    "timeWeek": 185,
+    "timeMonth": 146,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/singapore.cloudhowto.tech.ico",
     "slug": "singapore",
     "status": "down",
-    "uptime": "16.25%",
+    "uptime": "16.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 82,
+      "2025-05-28": 83,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -415,8 +416,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-29": 1440
     }
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "6.40%",
+    "uptime": "6.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -454,7 +454,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 82,
+      "2025-05-28": 83,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -817,8 +818,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-29": 1440
     }
   }
 ]
